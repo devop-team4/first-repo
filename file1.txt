@@ -2,3 +2,5 @@ Hi
 Hello
 This is firts repo of devops team 
 Tuseday 12 july
+5th line edited
+6th also edited by raju
